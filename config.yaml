@@ -1,0 +1,15 @@
+baseurl: "https://gradycongdon.github.io"
+canonifyurls: true
+contentdir: "content"
+dateform: "Jan 2, 2006"
+dateformfull: "Mon Jan 2 2006 15:04:05 MST"
+destination: "/home/g/www/gradycongdon.github.io"
+editor: "vim"
+enableEmoji: true
+googleAnalytics: ""
+languageCode: "en-us"
+paginate: 20
+publicdir: "/home/g/www/gradycongdon.github.io"
+stepAnalysis: true
+theme: "cocoa"
+title: "glog"
